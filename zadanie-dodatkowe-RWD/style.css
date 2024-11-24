@@ -2,7 +2,7 @@
 
 * {
    margin: 0;
-   padding: 0;
+   padding: 1em;
    box-sizing: border-box; 
 }
 
@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background: #0073e6;
+    background: #2295f8;
     color: white;
     padding: 1rem;
 }
