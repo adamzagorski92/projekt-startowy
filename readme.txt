@@ -7,3 +7,4 @@ Q&A:
     - czy miałem stworzyć odrębne repozytoria?
     - gdy inicjowałem repozytorium i chciałem je dołączyć do już istniejącego to wywalało mi błędy,
     - potrzebuję nieco szerszego kontekstu "jak to działa?"
+Jak używać Bash z poziomu terminala VCS?
